@@ -1,6 +1,7 @@
 # expense_app
 
-![Build Status](https://github.com/nekoto-kun/expense_app/workflows/Test%2C%20Build%20and%20Release%20apk/badge.svg)
+![Test Status](https://github.com/nekoto-kun/expense_app/workflows/Test%20Changes/badge.svg)
+![Build Status](https://github.com/nekoto-kun/expense_app/workflows/Test%20and%20Build/badge.svg)
 
 A new Flutter project.
 
